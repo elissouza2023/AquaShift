@@ -44,7 +44,11 @@ O **Flow State Shift** conecta os registros de turno diretamente ao fluxo de tra
 ---
 ## 🎥 Demonstração do Projeto
 
-![Demonstração AquaShift](/AquaShift.mp4)
+<video src="https://raw.githubusercontent.com/elissouza2023/AquaShift/main/AquaShift.mp4" controls width="100%">
+  Seu navegador não suporta a exibição de vídeos HTML5.
+</video>
+
+---
 
 ---
 ## 🚀 Tecnologias e Ferramentas
