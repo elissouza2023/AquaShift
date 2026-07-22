@@ -8,28 +8,28 @@ Uma solução digital voltada para otimizar a **comunicação operacional, conti
 
 ## 🎯 Sobre o Projeto
 
-Em ambientes industriais com sistemas legados, o operador frequentemente precisa escolher entre **operar a planta** ou **registrar dados operacionais**[cite: 3, 4]. O **Flow State Shift** nasce a partir de um diagnóstico profundo de UX Research para transformar o improviso e o "caos visual" em um fluxo contínuo, seguro e integrado[cite: 3, 4].
+Em ambientes industriais com sistemas legados, o operador frequentemente precisa escolher entre **operar a planta** ou **registrar dados operacionais**. O **Flow State Shift** nasce a partir de um diagnóstico profundo de UX Research para transformar o improviso e o "caos visual" em um fluxo contínuo, seguro e integrado.
 
 ### 🚨 O Problema Mapeado
-* **Sistemas Obsoletos**: Ferramentas antigas e engessadas geram alta fricção e rejeição por parte dos operadores[cite: 3, 4].
-* **Pressão de Tempo e Sobrecarga**: Registros feitos às pressas no final do turno causam perda de dados vitais[cite: 3, 4].
-* **Comunicação Informal (Gambiarras)**: Uso de WhatsApp, post-its e anotações em pranchetas para tentar evitar falhas entre equipes[cite: 3, 4].
-* **Isolamento de Dados**: Alterações de parâmetros e manutenções não documentadas comprometem a equipe do turno seguinte[cite: 3, 4].
+* **Sistemas Obsoletos**: Ferramentas antigas e engessadas geram alta fricção e rejeição por parte dos operadores.
+* **Pressão de Tempo e Sobrecarga**: Registros feitos às pressas no final do turno causam perda de dados vitais.
+* **Comunicação Informal (Gambiarras)**: Uso de WhatsApp, post-its e anotações em pranchetas para tentar evitar falhas entre equipes.
+* **Isolamento de Dados**: Alterações de parâmetros e manutenções não documentadas comprometem a equipe do turno seguinte.
 
 ---
 
 ## 💡 Hipótese e Diagnóstico de UX Research
 
-> *"Acreditamos que o improviso e o caos visual (gambiarras) são sintomas de um sistema que força o operador a escolher entre registrar ou operar a planta."*[cite: 3, 4]
+> *"Acreditamos que o improviso e o caos visual (gambiarras) são sintomas de um sistema que força o operador a escolher entre registrar ou operar a planta."*
 
 ### 🔍 Metodologia Aplicada
-- **Entrevistas Semi-estruturadas**: 5 entrevistas completas com operadores de planta para captura de cenários reais[cite: 3, 4].
-- **Análise da Causa Raiz (5 Porquês)**: Identificação de que a cultura do improviso decorre de um sistema que não acompanha o fluxo natural do trabalho operacional[cite: 3, 4].
-- **Uso de IA no Processo**: Auxílio na estruturação de roteiros, categorização de temas e identificação de padrões de uso[cite: 3, 4].
+- **Entrevistas Semi-estruturadas**: 5 entrevistas completas com operadores de planta para captura de cenários reais.
+- **Análise da Causa Raiz (5 Porquês)**: Identificação de que a cultura do improviso decorre de um sistema que não acompanha o fluxo natural do trabalho operacional.
+- **Uso de IA no Processo**: Auxílio na estruturação de roteiros, categorização de temas e identificação de padrões de uso.
 
 ### 📌 Principais Insights de UX
-1. **A Proatividade Informal é Arriscada**: Embora o uso de recursos informais ajude no curto prazo, cria gargalos de rastreabilidade e segurança[cite: 3, 4].
-2. **Integração Reduz Fricção**: Uma interface centralizada elimina a necessidade de duplicar registros manuais[cite: 3, 4].
+1. **A Proatividade Informal é Arriscada**: Embora o uso de recursos informais ajude no curto prazo, cria gargalos de rastreabilidade e segurança.
+2. **Integração Reduz Fricção**: Uma interface centralizada elimina a necessidade de duplicar registros manuais.
 
 ---
 
@@ -37,15 +37,15 @@ Em ambientes industriais com sistemas legados, o operador frequentemente precisa
 
 O **Flow State Shift** conecta os registros de turno diretamente ao fluxo de trabalho do operador, oferecendo:
 
-- **Checklists e Alertas Inteligentes**: Passagem de turno guiada com acompanhamento de parâmetros operacionais em tempo real[cite: 3, 4].
-- **Histórico e Rastreabilidade**: Registro fácil de ocorrências, manutenções pendentes e alterações de processos[cite: 3, 4].
-- **Interface Focada na Usabilidade (Agilidade)**: Redução drástica do tempo gasto preenchendo formulários e relatórios no fim do expediente[cite: 3, 4].
+- **Checklists e Alertas Inteligentes**: Passagem de turno guiada com acompanhamento de parâmetros operacionais em tempo real.
+- **Histórico e Rastreabilidade**: Registro fácil de ocorrências, manutenções pendentes e alterações de processos.
+- **Interface Focada na Usabilidade (Agilidade)**: Redução drástica do tempo gasto preenchendo formulários e relatórios no fim do expediente.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **UX Research & Service Design**: Mapeamento de jornada, entrevistas, 5 Porquês e matriz de insights[cite: 3, 4].
+- **UX Research & Service Design**: Mapeamento de jornada, entrevistas, 5 Porquês e matriz de insights.
 - **Prototipagem e Frontend Web**: Interface responsiva e interativa desenvolvida na plataforma Base44.
 - **Inteligência Artificial**: Aplicação de IA para sintaxe de pesquisa e análise de padrões de dados operacionais[cite: 3, 4].
 
