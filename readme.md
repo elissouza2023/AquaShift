@@ -42,7 +42,11 @@ O **Flow State Shift** conecta os registros de turno diretamente ao fluxo de tra
 - **Interface Focada na Usabilidade (Agilidade)**: Redução drástica do tempo gasto preenchendo formulários e relatórios no fim do expediente.
 
 ---
+## 🎥 Demonstração do Projeto
 
+![Demonstração AquaShift](assets/AquaShift.gif)
+
+---
 ## 🚀 Tecnologias e Ferramentas
 
 - **UX Research & Service Design**: Mapeamento de jornada, entrevistas, 5 Porquês e matriz de insights.
