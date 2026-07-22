@@ -53,8 +53,8 @@ O **Flow State Shift** conecta os registros de turno diretamente ao fluxo de tra
 
 ## 👩‍💻 Autora
 
-**Elisângela de Souza**[cite: 4]
-*Pesquisa de UX & Design de Produtos / Tecnologia em Segurança da Informação*[cite: 4]
+**Elisângela de Souza**
+*Pesquisa de UX & Design de Produtos / Tecnologia em Segurança da Informação*
 
 - **GitHub**: [@elissouza2023](https://github.com/elissouza2023)
 - **LinkedIn**: [Elisângela de Souza](https://linkedin.com/in/elisangela-de-souza-6181b832)
